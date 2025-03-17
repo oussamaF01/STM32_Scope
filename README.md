@@ -14,9 +14,10 @@ This is an oscilloscope application built with STM32 Nucleo-H533RE boards and Py
 ## Screenshot 📸
 
 ### Main Interface
-![Main Interface](pic/main window.PNG)
+![Main Interface](pic/main_window.PNG)  
+*The main interface of the STM32 Oscilloscope App.*
 
-
+---
 
 ## Requirements ⚡
 
