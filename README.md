@@ -12,6 +12,8 @@ This is an oscilloscope application built with STM32 Nucleo-H533RE boards and Py
 - Simple and intuitive GUI built with PyQt5 🖱️
 
 ## Screenshot 📸
+
+### Main Interface
 ![Main Interface](pic/main window.PNG)
 
 
